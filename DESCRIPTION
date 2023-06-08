@@ -1,6 +1,6 @@
 Package: RcppJagger
 Title: An R Wrapper for Jagger
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
         person("Shusei", "Eshima", email = "shuseieshima@gmail.com", role = c("aut","cre"), comment = c(ORCID = "0000-0003-3613-4046")),
         person("Naoki", "Yoshinaga", role = c("ctb"))
@@ -21,9 +21,9 @@ Suggests: dplyr (>= 1.1.0), testthat (>= 3.1.5), tibble
 Config/testthat/edition: 3
 LazyData: TRUE
 NeedsCompilation: yes
-Packaged: 2023-06-04 13:28:58 UTC; shusei
+Packaged: 2023-06-08 19:03:16 UTC; shusei
 Author: Shusei Eshima [aut, cre] (<https://orcid.org/0000-0003-3613-4046>),
   Naoki Yoshinaga [ctb]
 Maintainer: Shusei Eshima <shuseieshima@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-06-06 07:00:06 UTC
+Date/Publication: 2023-06-08 22:22:56 UTC
